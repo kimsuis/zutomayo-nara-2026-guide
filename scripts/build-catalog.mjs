@@ -1,5 +1,7 @@
 import fs from 'node:fs';
-const read=n=>JSON.parse(fs.readFileSync('research/'+n,'utf8'));
+import {enrichCatalog} from './enrich-catalog.mjs';
+const snapshot=n=>fs.existsSync('research/latest/'+n)?'research/latest/'+n:'research/'+n;
+const read=n=>JSON.parse(fs.readFileSync(snapshot(n),'utf8'));
 const norm=s=>String(s).normalize('NFKC').toLowerCase().replace(/×/g,'x').replace(/[\s\p{P}\p{S}]/gu,'');
 const pages=fs.readdirSync('research').filter(n=>/^store-api(?:-\d+)?\.json$/.test(n)).sort((a,b)=>Number(a.match(/-(\d+)/)?.[1]||0)-Number(b.match(/-(\d+)/)?.[1]||0));
 const store=new Map();for(const p of pages.flatMap(read))if(!store.has(p.product_code))store.set(p.product_code,p);
@@ -35,7 +37,7 @@ for(const [raw,priceText,variant] of legacy){let key=raw.replace('ZUTOMAYO × �
  if(!candidates.length){unresolved.push({name:raw,price:amounts[0],variant});continue;}
  for(const q of candidates){let override=amounts.length===1?amounts[0]:Number(q.price_sale);if(!override)throw Error('Missing price '+q.title);add({code:q.product_code,name:q.title,price:override,url:q.product_url},'팝업 구상품',override);}
 }
-const craft=fs.readFileSync('research/special.html','utf8');
+const craft=fs.readFileSync(snapshot('special.html'),'utf8');
 for(const [code,name,price,stock] of [['ZMY910','海苔巻きうにぐりくん はりこ',2500,100],['ZMY911',"I'm Creamyしょがスト はりこ",2500,100],['ZMY907','大和絵うにぐりくん茶碗',9800,40],['ZMY908','大和絵しょがストぐい呑み',6800,40]]){const images=[...new Set([...craft.matchAll(/src="(https:[^"]+)"/g)].map(m=>m[1]).filter(url=>url.includes('/collab-goods/'+code+'/')))];selected.set(code,{id:code,code,name,ko:specific[code],price,scope:'명장 공예',category:'명장 공예',color:'',size:'',notes:`전시 후 추첨 판매 · ${stock}개 한정 · 접수 방법 추가 공지 확인`,images,url:sources.craft,source:sources.craft,linkType:'공식 소개'});}
 // 단품 엽서는 공식 팝업의 구성별 상품. 사진은 3장 세트 구성 사진임을 명시.
 for(const [i,name] of ['漆胡瓶','紅牙・紺牙撥鏤碁子','密陀彩絵箱'].entries()){const base=selected.get('ZMY916');selected.set('POSTCARD-'+i,{...base,id:'POSTCARD-'+i,code:'단품 엽서 '+(i+1),name:'活版工房 丹 × ZUTOMAYO 活版ハガキ('+name+')',ko:['활판 엽서 — 옻칠 주전자 문양','활판 엽서 — 빨강·남색 바둑돌 문양','활판 엽서 — 채색 상자 문양'][i],price:500,scope:'나라 팝업 단품',category:'응원·생활·문구',notes:'팝업 단품 · 사진은 3장 세트의 구성 사진',url:sources.popup,source:sources.popup,linkType:'공식 팝업 목록'});}
@@ -43,5 +45,6 @@ for(const u of unresolved){for(const v of u.variant.split(' / ')){const id='POPU
 const order=['의류','가방·모자·신발','인형·쿠션','키링·액세서리','응원·생활·문구','식품·음료','카드·음반','명장 공예'];
 const goods=[...selected.values()].sort((a,b)=>order.indexOf(a.category)-order.indexOf(b.category)||a.ko.localeCompare(b.ko,'ko'));
 for(const p of goods)p.collection=p.category==='카드·음반'?'cards':p.scope==='팝업 구상품'?'legacy':'tour';
-fs.mkdirSync('data',{recursive:true});fs.writeFileSync('data/goods.json',JSON.stringify({verified:'2026-10-03',sources,goods},null,2)+'\n');
+const pendingCrafts=enrichCatalog(goods,store,current,sources,fs.readFileSync(snapshot('popup.html'),'utf8'));
+fs.mkdirSync('data',{recursive:true});fs.writeFileSync('data/goods.json',JSON.stringify({verified:'2026-10-03',sources,pendingCrafts,goods},null,2)+'\n');
 console.log(JSON.stringify({items:goods.length,withImages:goods.filter(p=>p.images.length).length,categories:order.map(c=>[c,goods.filter(p=>p.category===c).length]),unresolved},null,2));
