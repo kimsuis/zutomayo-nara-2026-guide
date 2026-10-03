@@ -12,8 +12,15 @@ const browser=await chromium.launch({headless:true,executablePath:'C:/Program Fi
 const context=await browser.newContext({viewport:{width:390,height:844},deviceScaleFactor:1,hasTouch:true,isMobile:true,acceptDownloads:true});
 const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
 await page.goto(base,{waitUntil:'domcontentloaded'});
-assert.equal(await page.locator('.good-card').count(),234);
+assert.equal(await page.locator('.good-card').count(),140);
 assert.equal(await page.locator('#budget-total').textContent(),'¥0');
+assert.equal(await page.locator('.good-card[data-id="ZMY718"]').count(),0);
+await page.locator('[data-collection="legacy"]').click();assert.equal(await page.locator('.good-card').count(),59);assert.equal(await page.locator('.good-card[data-id="ZMY718"]').count(),1);assert.equal(await page.locator('.good-card[data-id="ZMY785"]').count(),0);assert.equal(await page.locator('.good-card[data-id="POSTCARD-0"]').count(),0);
+await page.locator('.good-card [data-qty][data-id="ZMY718"]').fill('1');
+await page.locator('[data-collection="cards"]').click();assert.equal(await page.locator('.good-card').count(),35);assert.equal(await page.locator('.good-card[data-id="ZMY088"]').count(),1);
+await page.locator('[data-collection="all"]').click();assert.equal(await page.locator('.good-card').count(),234);
+await page.locator('.tabs [data-tab="plan"]').click();assert.equal(await page.locator('.plan-row').count(),1);await page.locator('[data-remove="ZMY718"]').click();
+await page.locator('.tabs [data-tab="catalog"]').click();await page.locator('[data-collection="tour"]').click();assert.equal(await page.locator('.good-card[data-id="POSTCARD-0"]').count(),1);
 const product=goods.find(p=>p.code==='ZMY785');
 await page.locator('#search').fill('ZMY785');
 await page.waitForFunction(()=>document.querySelectorAll('.good-card').length===1);
@@ -47,9 +54,9 @@ for(const width of [360,390,768,1440]){await page.setViewportSize({width,height:
 await page.locator('.tabs [data-tab="guide"]').click();assert.equal(await page.locator('.guide-content table').count(),38);await page.getByRole('link',{name:'공연과 티켓',exact:true}).click();await page.waitForFunction(()=>location.hash.includes('%EA%B3%B5')||decodeURIComponent(location.hash)==='#공연과-티켓');assert.equal(await page.locator('#guide').isVisible(),true);const anchors=await page.evaluate(()=>[...document.querySelectorAll('.guide-content a[href^="#"]')].map(a=>a.getAttribute('href').slice(1)).filter(id=>!document.getElementById(decodeURIComponent(id))));assert.deepEqual(anchors,[]);
 await page.goto(base+'/#catalog',{waitUntil:'domcontentloaded'});await page.setViewportSize({width:1440,height:1000});await page.locator('#clear-filters').click();await page.evaluate(()=>window.scrollTo(0,0));await page.screenshot({path:'.preview/desktop.png',fullPage:false});await page.setViewportSize({width:390,height:844});await page.locator('#search').fill('ZMY785');await page.waitForFunction(()=>document.querySelectorAll('.good-card').length===1);await page.evaluate(()=>window.scrollTo(0,0));await page.screenshot({path:'.preview/mobile-top.png',fullPage:false});
 const blocked=await browser.newContext({viewport:{width:390,height:844}});await blocked.addInitScript(()=>Object.defineProperty(window,'localStorage',{get(){throw Error('disabled')}}));const bpage=await blocked.newPage();await bpage.goto(base+'/#plan',{waitUntil:'domcontentloaded'});assert((await bpage.locator('#storage-note').textContent()).includes('자동 저장을 사용할 수 없습니다'));await blocked.close();
-const fileContext=await browser.newContext();const filePage=await fileContext.newPage();await filePage.goto('file:///'+process.cwd().replaceAll('\\','/')+'/index.html',{waitUntil:'domcontentloaded'});assert.equal(await filePage.locator('.good-card').count(),234);await fileContext.close();
+const fileContext=await browser.newContext();const filePage=await fileContext.newPage();await filePage.goto('file:///'+process.cwd().replaceAll('\\','/')+'/index.html',{waitUntil:'domcontentloaded'});assert.equal(await filePage.locator('.good-card').count(),140);await fileContext.close();
 assert.deepEqual(errors,[]);
-console.log(JSON.stringify({passed:true,goods:234,viewports:[360,390,768,1440],tested:['quantity','totals','bought','persistence','markdown export','backup import/export','invalid backup','negative quantity','filter','gallery','guide anchors','no overflow','unavailable storage','standalone file'],imageStatus,pageErrors:errors},null,2));
+console.log(JSON.stringify({passed:true,goods:234,viewports:[360,390,768,1440],tested:['current default','legacy separation','card separation','all groups','legacy quantity survives group switch','postcard classification','quantity','totals','bought','persistence','markdown export','backup import/export','invalid backup','negative quantity','filter','gallery','guide anchors','no overflow','unavailable storage','standalone file'],imageStatus,pageErrors:errors},null,2));
 await browser.close();
 await new Promise(resolve=>server.close(resolve));
 })().catch(e=>{console.error(e);process.exit(1)});
