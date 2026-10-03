@@ -2,6 +2,10 @@
 
 **특별공연제 LEGACY ZOMBIE LABO「文禍伝雷」奈良・平城京**
 
+**[📱 휴대폰에서 사이트 열기](https://kimsuis.github.io/zutomayo-nara-2026-guide/)** · [GitHub 저장소](https://github.com/kimsuis/zutomayo-nara-2026-guide)
+
+사이트 주소를 즐겨찾기하면 PC의 로컬 서버를 켜지 않아도 접속할 수 있습니다. 구매 수량과 메모는 각 기기의 브라우저에 저장되며, 기기 간 이동은 **내 구매표 → 백업 저장 / 백업 불러오기**를 사용하세요.
+
 ## 사진 구매표와 휴대폰용 HTML
 
 | 파일 | 용도 | 기능 |
