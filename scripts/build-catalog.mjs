@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import {enrichCatalog} from './enrich-catalog.mjs';
+import {enrichCollabs,lotteryRules} from './collab-metadata.mjs';
 const snapshot=n=>fs.existsSync('research/latest/'+n)?'research/latest/'+n:'research/'+n;
 const read=n=>JSON.parse(fs.readFileSync(snapshot(n),'utf8'));
 const norm=s=>String(s).normalize('NFKC').toLowerCase().replace(/×/g,'x').replace(/[\s\p{P}\p{S}]/gu,'');
@@ -46,5 +47,6 @@ const order=['의류','가방·모자·신발','인형·쿠션','키링·액세�
 const goods=[...selected.values()].sort((a,b)=>order.indexOf(a.category)-order.indexOf(b.category)||a.ko.localeCompare(b.ko,'ko'));
 for(const p of goods)p.collection=p.category==='카드·음반'?'cards':p.scope==='팝업 구상품'?'legacy':'tour';
 const pendingCrafts=enrichCatalog(goods,store,current,sources,fs.readFileSync(snapshot('popup.html'),'utf8'));
-fs.mkdirSync('data',{recursive:true});fs.writeFileSync('data/goods.json',JSON.stringify({verified:'2026-10-03',sources,pendingCrafts,goods},null,2)+'\n');
+enrichCollabs(goods,sources);
+fs.mkdirSync('data',{recursive:true});fs.writeFileSync('data/goods.json',JSON.stringify({verified:'2026-10-03',sources,pendingCrafts,lotteryRules,goods},null,2)+'\n');
 console.log(JSON.stringify({items:goods.length,withImages:goods.filter(p=>p.images.length).length,categories:order.map(c=>[c,goods.filter(p=>p.category===c).length]),unresolved},null,2));

@@ -4,6 +4,19 @@
 
 확인일 **2026-10-03**. 상품별 안내를 펼치면 실측과 판매 조건을 볼 수 있습니다. 실측은 약값, 가격은 세금 포함 엔화이며 실시간 재고 정보가 아닙니다. Short는 짧은 길이 옵션, 가슴단면은 둘레가 아닙니다. 화장은 목 중심에서 소매 끝까지 길이입니다.
 
+## 명장 공예 추첨 규칙 · 공개 상태
+
+| 항목 | 상태 | 안내 |
+|---|---|---|
+| 판매 방식 | 공개 | 명장 공예 시리즈는 팝업·공연장 전시 후 수량 한정 추첨 판매 |
+| 판매 수량 | 공개 | 찻사발·술잔 각각 40개 / 하리코 인형 2종 각각 100개 |
+| 접수 기간·응모 링크 | 미공개 | 공식 안내에서 확인하지 못함 |
+| 신청 자격·회원 여부 | 미공개 | 회원 가입 필요 여부·해외 거주자 신청 조건 미확인 |
+| 응모·구매 제한 | 미공개 | 1인 응모 횟수·여러 품목 신청 가능 여부·당첨 시 구매 수량 미확인 |
+| 당첨 발표·결제·수령 | 미공개 | 발표 일정·알림 방식·결제 기한·배송 또는 현장 수령 방법 미확인 |
+
+확인일 2026-10-03 · [공식 추첨 판매 소개](https://zutomayo.net/bunka-denrai/). 체험 참가권 추첨·팝업 입장 예약과 별도입니다.
+
 ## 추가 공개를 기다리는 명장 협업
 
 - **나라 칠기**: 추가 협업 예고 · 상품명·사진·가격·수량 미공개. [공식 공지](https://zutomayo.net/bunka-denrai/)
@@ -2464,6 +2477,8 @@
 
 ### 사이즈·규격
 
+**이전·기존 콜라보: nana-nana (nana-nana)** · [공식 협업 소개](https://zutomayomart.net/v2/product/detail/ZMY306)
+
 Body：H17cm x W17cm x D7cm<br>어깨끈 : ボールチェーン x PVC 109cm<br>ハンドル : 실리콘素材のハンドルを独自開発
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY306)
@@ -2517,6 +2532,8 @@ W 19cm × D 12cm × H 26cm<br>ポケットの深さ 16cm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY886)
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 나라현 · 센토군 (奈良県 · せんとくん)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 50cm × 57.5cm
 
@@ -2905,6 +2922,8 @@ W 37cm × H 38cm × D 19cm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 요코 (yoccoh.)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 W 27cm × H 27cm × 폭 12cm<br>ハンドル 50cm程度
 
 소재: PVC
@@ -3042,6 +3061,8 @@ W 46 × D 16 × H 34cｍ
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: HEP · 가와히가시 신발상점 (川東履物商店 (HEP))** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 공개 사이즈: **22.5cm~24cm / 25.5cm~27cm / 27cm~28.5cm**
 
 | 사이즈 | 공식 실측 (약) |
@@ -3076,6 +3097,8 @@ W 46 × D 16 × H 34cｍ
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY891)
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: HEP · 가와히가시 신발상점 (川東履物商店 (HEP))** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 공개 사이즈: **22.5cm~24cm / 24cm~25cm / 25.5cm~27cm / 27cm~28cm / 28cm~29.5cm**
 
@@ -4031,6 +4054,8 @@ H 13cm × W 3.3cm × 厚さ 0.28cm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 나라현 · 센토군 (奈良県 · せんとくん)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 H 10cm × W 4cm × D 0.25cm
 
 소재: 아연합금・철
@@ -4062,6 +4087,8 @@ H 10cm × W 4cm × D 0.25cm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY874)
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 나라현 · 센토군 (奈良県 · せんとくん)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 H 10cm × W 4cm × D 0.25cm
 
@@ -4823,6 +4850,8 @@ H 110mm × W 32mm × D 9mm（金具含め）
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 주쇼 (合同会社樹匠)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 W 30mm × D 30mm × H 55mm
 
 소재: 목재(桧)
@@ -4851,6 +4880,8 @@ W 30mm × D 30mm × H 55mm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY915) · **추가 공개 상품**
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 활판공방 탄 (活版工房 丹)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 W 150mm × H 200mm
 
@@ -5007,6 +5038,8 @@ W 90mm × H 160mm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY904) · **추가 공개 상품**
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 주쇼 (合同会社樹匠)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 W 8mm × D 5mm × H 240mm
 
@@ -5190,6 +5223,8 @@ H 3.5cm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 나라현 · 센토군 (奈良県 · せんとくん)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 A4용（22cm × 31cm）<br>W 14.8cm × H 10cm
 
 소재: PP / 종이
@@ -5222,6 +5257,8 @@ A4용（22cm × 31cm）<br>W 14.8cm × H 10cm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 시라유키 (白雪)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 26cm × 83cm
 
 소재: 면60%、레이온30%、麻10%
@@ -5252,6 +5289,8 @@ A4용（22cm × 31cm）<br>W 14.8cm × H 10cm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY890)
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 아카시야 (奈良筆あかしや)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 본체 径 10mm × 176mm<br>外装 W 15mm × H 178mm × D 15mm
 
@@ -5455,6 +5494,8 @@ A4용（22cm × 31cm）<br>W 14.8cm × H 10cm
 
 ### 사이즈·규격
 
+**이전·기존 콜라보: 하나세레브 (鼻セレブ)** · [공식 협업 소개](https://zutomayomart.net/v2/product/detail/ZMY157)
+
 24.4cm × 11.6cm × H18.0cm
 
 소재: パルプ100％
@@ -5532,6 +5573,8 @@ A4용（22cm × 31cm）<br>W 14.8cm × H 10cm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 활판공방 탄 (活版工房 丹)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 단품 엽서 · 상세 실측 미공개
 
 [규격 출처](https://zutomayo.net/mart_nara202610/)
@@ -5557,6 +5600,8 @@ A4용（22cm × 31cm）<br>W 14.8cm × H 10cm
 [공식 상품·소개](https://zutomayo.net/mart_nara202610/)
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 활판공방 탄 (活版工房 丹)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 단품 엽서 · 상세 실측 미공개
 
@@ -5584,6 +5629,8 @@ A4용（22cm × 31cm）<br>W 14.8cm × H 10cm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 활판공방 탄 (活版工房 丹)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 단품 엽서 · 상세 실측 미공개
 
 [규격 출처](https://zutomayo.net/mart_nara202610/)
@@ -5609,6 +5656,8 @@ A4용（22cm × 31cm）<br>W 14.8cm × H 10cm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY916) · **추가 공개 상품**
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 활판공방 탄 (活版工房 丹)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 W 105mm × H 150mm
 
@@ -5638,6 +5687,8 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 메이스이노사토 (名水の里)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 500ml
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY924)
@@ -5664,6 +5715,8 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 고토카노시즈쿠 (古都華のしずく)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 180g
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY942)
@@ -5689,6 +5742,8 @@ W 105mm × H 150mm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY925) · **추가 공개 상품**
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 혼케 기쿠야 (本家菊屋)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 5個
 
@@ -5717,6 +5772,8 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 나카모토 주조 (中本酒造店)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 720ml
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY928)
@@ -5744,6 +5801,8 @@ W 105mm × H 150mm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY892)
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 사토덴 마스오 상점 (砂糖傳増尾商店)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 상세 실측 미공개
 
@@ -5775,6 +5834,8 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 사토덴 마스오 상점 (砂糖傳増尾商店)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 상세 실측 미공개
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY893)
@@ -5805,6 +5866,8 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: THERAPYNIA (THERAPYNIA)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 상세 실측 미공개
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY948)
@@ -5832,6 +5895,8 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 혼케 기쿠야 (本家菊屋)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 5個
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY926)
@@ -5858,6 +5923,8 @@ W 105mm × H 150mm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY946) · **추가 공개 상품**
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: FARMENTRY (FARMENTRY)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 상세 실측 미공개
 
@@ -5887,6 +5954,8 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: THERAPYNIA (THERAPYNIA)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 상세 실측 미공개
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY947)
@@ -5914,6 +5983,8 @@ W 105mm × H 150mm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY918) · **추가 공개 상품**
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 나라 아마즈라 재현 프로젝트 (奈良あまづらせん再現プロジェクト)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 40g
 
@@ -5946,6 +6017,8 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 겐이치 자연농원 (健一自然農園)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 상세 실측 미공개
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY889)
@@ -5975,6 +6048,8 @@ W 105mm × H 150mm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY913) · **추가 공개 상품**
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 보사츠 카레 (菩薩咖喱)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 상세 실측 미공개
 
@@ -6006,6 +6081,8 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 보사츠 카레 (菩薩咖喱)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 상세 실측 미공개
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY912)
@@ -6036,6 +6113,8 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: 하나마루키 (ハナマルキ)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 상세 실측 미공개
 
 [규격 출처](https://zutomayomart.net/v2/product/detail/ZMY906)
@@ -6063,6 +6142,8 @@ W 105mm × H 150mm
 [공식 상품·소개](https://zutomayomart.net/v2/product/detail/ZMY927) · **추가 공개 상품**
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 이마니시 세이베에 상점 (今西清兵衛商店)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 720ml
 
@@ -6228,7 +6309,7 @@ W 105mm × H 150mm
 <a id="upch-29308"></a>
 
 <details>
-<summary>올바른 거짓에서의 기상 — 초회 마도서판 복각 · UPCH-29308 · ¥3,565</summary>
+<summary>미니 1집 초회 한정판 복각 — 올바른 거짓에서의 기상 · UPCH-29308 · ¥3,565</summary>
 
 **正しい偽りからの起床【初回限定盤】**
 
@@ -6236,22 +6317,24 @@ W 105mm × H 150mm
 
 ### 사이즈·규격
 
-상세 실측 미공개
+CD 12트랙: 본곡 6곡 + 인스트루멘털 6곡<br>마도서 형태 BOX · MV 아트북 · ACAね 해설이 포함된 전곡 코드 악보
 
-[규격 출처](https://zutomayomart.net/v2/product/detail/UPCH-29308)
+[규격 출처](https://zutomayo.net/news/652/)
 
-### 구매 안내 — 일반 판매
+### 구매 안내 — 회원 한정 · 수량 한정 복각 판매
 
-- 공식 상품 상세 주문 제한: 1인 1개 (현장 제한은 판매처 안내 확인)
-- ZUTOMAYO PREMIUM 회원 한정 · 현장 MY PAGE 회원 확인
-- 1인 1개 · 사전 수령 ¥3,565 / 공연장 직접 판매 ¥3,600 · 구매표 합계는 ¥3,565 기준
+- 공연 전 사전 수령·현장 판매 모두 PREMIUM 회원 한정
+- 1인 1장 · 각 판매 방식에 별도 상한 재고, 소진 시 종료
+- 사전 수령 ¥3,565 / 현장 직접 구매 ¥3,600 · 구매표 합계는 ¥3,565 기준
+- 나라 팝업의 미니 1집 통상판(UPCH-20497)과 다른 상품
 
 | 장소 | 일정·방법 | 공식 안내 |
 |---|---|---|
-| 공연장 물판 | 10/10·11 각일 10:00~종연 후. 헤이조궁터 祭Area, 공연 티켓 없이 구매 가능. | [확인](https://zutomayo.net/bunka_denrai_Item_netorder/) |
-| 사전 주문 → 공연장 수령 | 회원 우선 10/3 20:00~10/4 19:59, 일반 10/4 20:00~10/7 23:59. 10/10·11 선택한 시간에 祭Area 수령. 일본 현지 시각. | [확인](https://zutomayo.net/bunka_denrai_Item_netorder/) |
+| 사전 주문 → 공연장 수령 | PREMIUM 회원 한정. 10/3 20:00~10/7 23:59 접수, ¥3,565. 10/10·11 祭Area Goods 부스에서 수령. 1인 1장. | [확인](https://zutomayo.net/news/652/) |
+| 공연장 물판 | PREMIUM 회원 한정. 10/10·11 10:00~21:00, 祭Area Goods 부스. ¥3,600, 1인 1장, 회원증 제시. 재고 소진 시 종료. | [확인](https://zutomayo.net/news/652/) |
+| 공연 후 ZUTOMAYO MART 판매 예고 | 공연 종료 후 수량 한정·회원 선행 판매 예정. 판매 시기·상세 조건은 추후 공지. | [확인](https://zutomayo.net/news/652/) |
 
-[추가 판매 조건](https://zutomayo.net/news/652/)
+[추가 판매 조건](https://zutomayomart.net/v2/product/detail/UPCH-29308)
 
 </details>
 
@@ -7032,6 +7115,8 @@ W:6.8cm × H:9.2cm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: Good Job! 센터 가시바 (Good Job! センター香芝)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 상세 실측 미공개
 
 [규격 출처](https://zutomayo.net/bunka-denrai/)
@@ -7058,6 +7143,8 @@ W:6.8cm × H:9.2cm
 [공식 상품·소개](https://zutomayo.net/bunka-denrai/) · **추가 공개 상품**
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 오시오 쇼잔 · 아카하다야키 (大塩昭山)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 상세 실측 미공개
 
@@ -7086,6 +7173,8 @@ W:6.8cm × H:9.2cm
 
 ### 사이즈·규격
 
+**이번 나라 콜라보: Good Job! 센터 가시바 (Good Job! センター香芝)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
+
 상세 실측 미공개
 
 [규격 출처](https://zutomayo.net/bunka-denrai/)
@@ -7112,6 +7201,8 @@ W:6.8cm × H:9.2cm
 [공식 상품·소개](https://zutomayo.net/bunka-denrai/) · **추가 공개 상품**
 
 ### 사이즈·규격
+
+**이번 나라 콜라보: 오시오 쇼잔 · 아카하다야키 (大塩昭山)** · [공식 협업 소개](https://zutomayo.net/bunka-denrai/)
 
 상세 실측 미공개
 

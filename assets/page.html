@@ -25,7 +25,7 @@
 <main id="main">
   <section id="catalog" class="panel" aria-labelledby="catalog-title">
     <div class="section-title"><div><span class="eyebrow">GOODS CATALOG</span><h2 id="catalog-title">사진으로 고르고, 수량 담기</h2></div><a class="text-link" href="https://zutomayo.net/bunka_denrai_Item_netorder/" target="_blank" rel="noopener noreferrer">수령 주문 안내 ↗</a></div>
-    <p class="muted intro">사이즈·규격과 구매 장소를 상품마다 확인하세요. 실측표는 ‘실측·구매 안내’에서 볼 수 있습니다. 수량과 선택 사이즈를 저장하는 개인 구매표입니다.</p>
+    <p class="muted intro">사이즈·규격과 구매 장소를 상품마다 확인하세요. 실측표는 ‘실측·구매 안내’에서 볼 수 있습니다. 검색은 이번 공연·이전 굿즈·음반 전체를 찾습니다. 수량과 선택 사이즈를 저장하는 개인 구매표입니다.</p>
     <div class="collection-tabs" role="group" aria-label="굿즈 목록 구분">
       <button type="button" data-collection="tour" aria-pressed="true">이번 공연 굿즈 <span></span></button>
       <button type="button" data-collection="legacy" aria-pressed="false">이전 투어·기존 굿즈 <span></span></button>
@@ -33,11 +33,13 @@
       <button type="button" data-collection="all" aria-pressed="false">전체 <span></span></button>
     </div>
     <p id="collection-note" class="collection-note" role="status"></p>
-    <div class="quick-filters" role="group" aria-label="구매 방식 빠른 선택"><button type="button" data-purchase-filter="lottery">추첨·명장 공예</button><button type="button" data-purchase-filter="additional">추가 공개 상품</button><button type="button" data-purchase-filter="popup-only">팝업 판매만 확인</button></div>
+    <div class="quick-filters" role="group" aria-label="굿즈 빠른 선택"><button type="button" id="nara-collabs">나라 콜라보 굿즈</button><button type="button" data-purchase-filter="lottery">추첨·명장 공예</button><button type="button" data-purchase-filter="additional">추가 공개 상품</button><button type="button" data-purchase-filter="popup-only">팝업 판매만 확인</button></div>
+    <aside class="album-feature" aria-label="미니 1집 초회 한정판 안내"><div><strong>미니 1집 초회 한정판 · 마도서판 복각</strong><p>『正しい偽りからの起床』 · 회원 한정 · 1인 1장<br>사전 수령 ¥3,565 / 현장 구매 ¥3,600</p></div><a href="#goods-UPCH-29308" id="show-mini-album">사진·수량 보기 →</a></aside>
     <div class="filters">
-      <label class="search-label"><span class="sr-only">상품 검색</span><input type="search" id="search" placeholder="이름 · 캐릭터 · 색상 · 상품번호 검색" autocomplete="off"></label>
+      <label class="search-label"><span class="sr-only">상품 검색</span><input type="search" id="search" placeholder="이름 · 업체 · 미니 1집 · 상품번호 검색" autocomplete="off"></label>
       <div class="selects"><label>종류<select id="category"><option value="">모든 종류</option></select></label><label>판매 구분<select id="scope"><option value="">모든 판매 구분</option><option>현장·나라 굿즈</option><option>팝업 한정색</option><option>나라 팝업 단품</option><option>팝업 구상품</option><option>명장 공예</option></select></label></div>
       <label class="purchase-filter">구매 장소·방법<select id="purchase"><option value="">모든 장소·방법</option><option value="venue">공연장 물판</option><option value="pickup">사전 주문 · 현장 수령</option><option value="popup">나라 팝업</option><option value="popup-only">팝업 판매만 확인</option><option value="station">역 매점 STAND</option><option value="drink">음료 부스 造酒司</option><option value="lottery">추첨·명장 공예</option><option value="additional">추가 공개 상품</option></select></label>
+      <div class="collab-selects"><label>콜라보 구분<select id="collab"><option value="">모든 상품</option><option value="nara">이번 나라 콜라보</option><option value="legacy">이전·기존 콜라보</option><option value="all">모든 콜라보</option><option value="none">콜라보 표시 없는 상품</option></select></label><label>협업 업체<select id="partner"><option value="">모든 협업 업체</option></select></label></div>
       <div class="filter-footer"><span id="result-count" role="status"></span><label class="check"><input type="checkbox" id="selected-only">담은 상품만</label><button type="button" class="link-button" id="clear-filters">필터 초기화</button></div>
     </div>
     <details class="notice"><summary>구매 전에 확인할 판매 구분 · 가격 · 사진</summary><div>
@@ -49,6 +51,7 @@
     </div></details>
     <div id="goods-grid" class="goods-grid"></div>
     <div id="empty-search" class="empty" hidden><h3>검색 결과가 없어요</h3><p>다른 이름을 입력하거나 필터를 초기화해 보세요.</p></div>
+    <section id="lottery-rules" class="lottery-rules" hidden aria-labelledby="lottery-title"><h3 id="lottery-title">명장 공예 추첨 규칙 · 공개 상태</h3><div id="lottery-rule-table"></div><p>10/3 확인 · 응모 링크가 공개되기 전까지 아래 링크는 공식 소개 페이지입니다. 체험 참가권 추첨·팝업 입장 예약과 별도입니다.</p><a href="https://zutomayo.net/bunka-denrai/" target="_blank" rel="noopener noreferrer">공식 명장 공예 공지 확인 ↗</a></section>
     <section id="pending-crafts" class="pending-crafts" hidden aria-labelledby="pending-title"><h3 id="pending-title">다음 공개를 기다리는 명장 협업</h3><p>공식 페이지에서 아래 분야를 예고했습니다. 개별 상품명·사진·가격·판매 수량은 아직 미공개입니다. 구매표에는 가격이 확인된 상품만 담을 수 있습니다.</p><div id="pending-list"></div><a href="https://zutomayo.net/bunka-denrai/" target="_blank" rel="noopener noreferrer">공식 추가 공개 확인 ↗</a></section>
   </section>
   <section id="plan" class="panel" aria-labelledby="plan-title" hidden>
@@ -56,7 +59,7 @@
     <p class="muted intro">수량이 1개 이상인 상품을 모았습니다. 선택 사이즈도 함께 저장됩니다. 여러 사이즈를 살 때는 ‘여러 사이즈’ 선택 후 수량 배분을 메모에 적으세요. 구매 완료를 체크해도 계획 합계는 유지됩니다.</p>
     <div class="plan-metrics"><div><span>구매 계획</span><strong id="metric-total">¥0</strong></div><div><span>구매 완료</span><strong id="metric-bought">¥0</strong></div><div><span>남은 구매</span><strong id="metric-remaining">¥0</strong></div></div>
     <div class="plan-toolbar"><button type="button" id="export-md">수량 담긴 MD 저장</button><button type="button" id="export-json">백업 저장</button><button type="button" id="import-json">백업 불러오기</button><button type="button" id="reset-plan" class="danger">전체 비우기</button><input id="import-file" type="file" accept=".json,application/json" hidden></div>
-    <p class="storage-note" id="storage-note">수량·선택 사이즈·메모는 이 브라우저에 자동 저장됩니다. 기기 간 이동은 백업 저장·불러오기를 사용하세요.</p>
+    <p class="storage-note" id="storage-note">수량·선택 사이즈·메모는 이 기기의 브라우저에 저장됩니다. 휴대폰·PC 간 자동 동기화는 되지 않습니다. 옮기려면 백업 저장·불러오기를 사용하세요.</p>
     <div id="empty-plan" class="empty"><span class="empty-symbol" aria-hidden="true">＋</span><h3>아직 담은 굿즈가 없어요</h3><p>굿즈 둘러보기에서 수량을 올리면<br>사진과 금액이 여기에 모입니다.</p><button type="button" data-tab="catalog" class="primary">굿즈 둘러보기</button></div>
     <div id="plan-table-wrap" class="plan-table-wrap" hidden><table class="plan-table"><thead><tr><th scope="col">구매 완료</th><th scope="col">굿즈</th><th scope="col">단가</th><th scope="col">수량</th><th scope="col">소계</th><th scope="col">사이즈 / 메모</th><th scope="col"><span class="sr-only">삭제</span></th></tr></thead><tbody id="plan-rows"></tbody></table></div>
   </section>

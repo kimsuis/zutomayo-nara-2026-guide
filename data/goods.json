@@ -38,6 +38,42 @@
       "source": "https://zutomayo.net/bunka-denrai/"
     }
   ],
+  "lotteryRules": {
+    "verified": "2026-10-03",
+    "source": "https://zutomayo.net/bunka-denrai/",
+    "rows": [
+      {
+        "label": "판매 방식",
+        "status": "공개",
+        "value": "명장 공예 시리즈는 팝업·공연장 전시 후 수량 한정 추첨 판매"
+      },
+      {
+        "label": "판매 수량",
+        "status": "공개",
+        "value": "찻사발·술잔 각각 40개 / 하리코 인형 2종 각각 100개"
+      },
+      {
+        "label": "접수 기간·응모 링크",
+        "status": "미공개",
+        "value": "공식 안내에서 확인하지 못함"
+      },
+      {
+        "label": "신청 자격·회원 여부",
+        "status": "미공개",
+        "value": "회원 가입 필요 여부·해외 거주자 신청 조건 미확인"
+      },
+      {
+        "label": "응모·구매 제한",
+        "status": "미공개",
+        "value": "1인 응모 횟수·여러 품목 신청 가능 여부·당첨 시 구매 수량 미확인"
+      },
+      {
+        "label": "당첨 발표·결제·수령",
+        "status": "미공개",
+        "value": "발표 일정·알림 방식·결제 기한·배송 또는 현장 수령 방법 미확인"
+      }
+    ]
+  },
   "goods": [
     {
       "id": "ZMY796",
@@ -110,7 +146,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY798",
@@ -195,7 +232,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY797",
@@ -275,7 +313,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY897",
@@ -343,7 +382,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY820",
@@ -422,7 +462,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY821",
@@ -507,7 +548,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY822",
@@ -574,7 +616,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY806",
@@ -666,7 +709,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY807",
@@ -740,7 +784,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY805",
@@ -826,7 +871,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY802",
@@ -891,7 +937,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY803",
@@ -972,7 +1019,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY804",
@@ -1052,7 +1100,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY801",
@@ -1142,7 +1191,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY799",
@@ -1233,7 +1283,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY800",
@@ -1312,7 +1363,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY789",
@@ -1402,7 +1454,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY790",
@@ -1493,7 +1546,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY788",
@@ -1569,7 +1623,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY655",
@@ -1639,7 +1694,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY654",
@@ -1708,7 +1764,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY831",
@@ -1775,7 +1832,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY829",
@@ -1860,7 +1918,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY830",
@@ -1944,7 +2003,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY767",
@@ -2019,7 +2079,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY793",
@@ -2112,7 +2173,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY792",
@@ -2189,7 +2251,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY791",
@@ -2278,7 +2341,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY786",
@@ -2374,7 +2438,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY787",
@@ -2451,7 +2516,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY785",
@@ -2547,7 +2613,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY832",
@@ -2616,7 +2683,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY833",
@@ -2697,7 +2765,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY834",
@@ -2768,7 +2837,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY826",
@@ -2861,7 +2931,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY828",
@@ -2954,7 +3025,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY827",
@@ -3029,7 +3101,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY837",
@@ -3115,7 +3188,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY838",
@@ -3201,7 +3275,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY835",
@@ -3288,7 +3363,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY836",
@@ -3357,7 +3433,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY809",
@@ -3430,7 +3507,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY808",
@@ -3519,7 +3597,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY810",
@@ -3607,7 +3686,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY677",
@@ -3662,7 +3742,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY676",
@@ -3718,7 +3799,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY718",
@@ -3793,7 +3875,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY717",
@@ -3868,7 +3951,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY678",
@@ -3921,7 +4005,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY844",
@@ -3988,7 +4073,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY843",
@@ -4040,7 +4126,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY711",
@@ -4117,7 +4204,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY712",
@@ -4194,7 +4282,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY714",
@@ -4271,7 +4360,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "POPUP-CHAMP-BLACK",
@@ -4311,7 +4401,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "POPUP-CHAMP-WHITE",
@@ -4351,7 +4442,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY815",
@@ -4422,7 +4514,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY816",
@@ -4507,7 +4600,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY814",
@@ -4587,7 +4681,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY795",
@@ -4675,7 +4770,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY794",
@@ -4769,7 +4865,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY819",
@@ -4864,7 +4961,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY817",
@@ -4954,7 +5052,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY818",
@@ -5030,7 +5129,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY823",
@@ -5117,7 +5217,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY825",
@@ -5197,7 +5298,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY824",
@@ -5277,7 +5379,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY668",
@@ -5350,7 +5453,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY545",
@@ -5425,7 +5529,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY544",
@@ -5500,7 +5605,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY456",
@@ -5574,7 +5680,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY306",
@@ -5627,6 +5734,12 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
+      },
+      "collab": {
+        "group": "legacy",
+        "partner": "nana-nana",
+        "original": "nana-nana",
+        "source": "https://zutomayomart.net/v2/product/detail/ZMY306"
       }
     },
     {
@@ -5696,7 +5809,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY886",
@@ -5755,6 +5869,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "나라현 · 센토군",
+        "original": "奈良県 · せんとくん",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -5823,7 +5943,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY848",
@@ -5896,7 +6017,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY851",
@@ -5959,7 +6081,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY850",
@@ -6022,7 +6145,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY840",
@@ -6096,7 +6220,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY839",
@@ -6149,7 +6274,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY882",
@@ -6220,7 +6346,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY881",
@@ -6291,7 +6418,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY486",
@@ -6340,7 +6468,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY687",
@@ -6402,7 +6531,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY685",
@@ -6456,7 +6586,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY842",
@@ -6530,7 +6661,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY917",
@@ -6597,6 +6729,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "요코",
+        "original": "yoccoh.",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -6645,7 +6783,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY775",
@@ -6692,7 +6831,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY625",
@@ -6738,7 +6878,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY774",
@@ -6785,7 +6926,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY914",
@@ -6864,6 +7006,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "HEP · 가와히가시 신발상점",
+        "original": "川東履物商店 (HEP)",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -6944,6 +7092,12 @@
         "sources": [
           "https://zutomayo.net/bunka_denrai_Item_netorder/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "HEP · 가와히가시 신발상점",
+        "original": "川東履物商店 (HEP)",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -7015,7 +7169,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY845",
@@ -7074,7 +7229,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY847",
@@ -7147,7 +7303,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY692",
@@ -7199,7 +7356,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY870",
@@ -7272,7 +7430,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY869",
@@ -7344,7 +7503,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY526",
@@ -7392,7 +7552,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY527",
@@ -7440,7 +7601,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY319",
@@ -7489,7 +7651,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY896",
@@ -7561,7 +7724,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY895",
@@ -7633,7 +7797,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY738",
@@ -7680,7 +7845,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY737",
@@ -7727,7 +7893,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY278",
@@ -7774,7 +7941,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY279",
@@ -7824,7 +7992,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY943",
@@ -7895,7 +8064,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY694",
@@ -7943,7 +8113,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY868",
@@ -8012,7 +8183,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY395",
@@ -8061,7 +8233,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY736",
@@ -8108,7 +8281,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY683",
@@ -8159,7 +8333,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY682",
@@ -8209,7 +8384,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY686",
@@ -8260,7 +8436,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY757",
@@ -8310,7 +8487,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY876",
@@ -8379,7 +8557,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY739",
@@ -8425,7 +8604,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY945",
@@ -8476,7 +8656,8 @@
         "sources": [
           "https://zutomayo.net/bunka_denrai_Item_netorder/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY866",
@@ -8543,7 +8724,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY695",
@@ -8590,7 +8772,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY919",
@@ -8658,7 +8841,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY884",
@@ -8725,7 +8909,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY883",
@@ -8785,7 +8970,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY873",
@@ -8854,6 +9040,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "나라현 · 센토군",
+        "original": "奈良県 · せんとくん",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -8923,6 +9115,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "나라현 · 센토군",
+        "original": "奈良県 · せんとくん",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -8990,7 +9188,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY856",
@@ -9059,7 +9258,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY855",
@@ -9130,7 +9330,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY872",
@@ -9197,7 +9398,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY601",
@@ -9255,7 +9457,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY864",
@@ -9323,7 +9526,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY861",
@@ -9390,7 +9594,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY862",
@@ -9458,7 +9663,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY853",
@@ -9527,7 +9733,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY854",
@@ -9598,7 +9805,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY780",
@@ -9669,7 +9877,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY863",
@@ -9737,7 +9946,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY871",
@@ -9804,7 +10014,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY482",
@@ -9851,7 +10062,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY702",
@@ -9899,7 +10111,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY867",
@@ -9966,7 +10179,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY877",
@@ -10036,7 +10250,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY878",
@@ -10106,7 +10321,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY879",
@@ -10173,7 +10389,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY690",
@@ -10220,7 +10437,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY691",
@@ -10267,7 +10485,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY689",
@@ -10314,7 +10533,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY696",
@@ -10365,7 +10585,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY741",
@@ -10416,7 +10637,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY903",
@@ -10479,6 +10701,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "주쇼",
+        "original": "合同会社樹匠",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -10546,6 +10774,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "활판공방 탄",
+        "original": "活版工房 丹",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -10614,7 +10848,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY921",
@@ -10682,7 +10917,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY944",
@@ -10757,7 +10993,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY858",
@@ -10830,7 +11067,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY904",
@@ -10901,6 +11139,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "주쇼",
+        "original": "合同会社樹匠",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -10978,7 +11222,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY885",
@@ -11047,7 +11292,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY628",
@@ -11094,7 +11340,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY680",
@@ -11144,7 +11391,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY860",
@@ -11217,7 +11465,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY923",
@@ -11290,6 +11539,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "나라현 · 센토군",
+        "original": "奈良県 · せんとくん",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -11352,6 +11607,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "시라유키",
+        "original": "白雪",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -11420,6 +11681,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "아카시야",
+        "original": "奈良筆あかしや",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -11471,7 +11738,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY859",
@@ -11544,7 +11812,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY729",
@@ -11590,7 +11859,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY745",
@@ -11685,7 +11955,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY922",
@@ -11752,7 +12023,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY756",
@@ -11801,7 +12073,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY157",
@@ -11849,6 +12122,12 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
+      },
+      "collab": {
+        "group": "legacy",
+        "partner": "하나세레브",
+        "original": "鼻セレブ",
+        "source": "https://zutomayomart.net/v2/product/detail/ZMY157"
       }
     },
     {
@@ -11900,7 +12179,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY755",
@@ -12003,7 +12283,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "POSTCARD-1",
@@ -12061,6 +12342,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "활판공방 탄",
+        "original": "活版工房 丹",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12119,6 +12406,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "활판공방 탄",
+        "original": "活版工房 丹",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12177,6 +12470,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "활판공방 탄",
+        "original": "活版工房 丹",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12236,6 +12535,12 @@
         "sources": [
           "https://zutomayo.net/bunka_denrai_Item_netorder/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "활판공방 탄",
+        "original": "活版工房 丹",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12291,6 +12596,12 @@
         "sources": [
           "https://zutomayo.net/bunka_denrai_Item_netorder/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "메이스이노사토",
+        "original": "名水の里",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12344,6 +12655,12 @@
         "sources": [
           "https://zutomayo.net/bunka_denrai_Item_netorder/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "고토카노시즈쿠",
+        "original": "古都華のしずく",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12408,6 +12725,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "혼케 기쿠야",
+        "original": "本家菊屋",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12471,6 +12794,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/bunka-denrai/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "나카모토 주조",
+        "original": "中本酒造店",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12531,6 +12860,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "사토덴 마스오 상점",
+        "original": "砂糖傳増尾商店",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12591,6 +12926,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "사토덴 마스오 상점",
+        "original": "砂糖傳増尾商店",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12648,6 +12989,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/bunka-denrai/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "THERAPYNIA",
+        "original": "THERAPYNIA",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12712,6 +13059,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "혼케 기쿠야",
+        "original": "本家菊屋",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12770,6 +13123,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/bunka-denrai/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "FARMENTRY",
+        "original": "FARMENTRY",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12828,6 +13187,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/bunka-denrai/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "THERAPYNIA",
+        "original": "THERAPYNIA",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12895,6 +13260,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "나라 아마즈라 재현 프로젝트",
+        "original": "奈良あまづらせん再現プロジェクト",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -12957,6 +13328,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "겐이치 자연농원",
+        "original": "健一自然農園",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -13025,6 +13402,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "보사츠 카레",
+        "original": "菩薩咖喱",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -13093,6 +13476,12 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "보사츠 카레",
+        "original": "菩薩咖喱",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -13159,6 +13548,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "하나마루키",
+        "original": "ハナマルキ",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -13221,6 +13616,12 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/bunka-denrai/"
         ]
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "이마니시 세이베에 상점",
+        "original": "今西清兵衛商店",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -13263,7 +13664,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPCH-20613",
@@ -13305,7 +13707,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPCH-20552",
@@ -13347,7 +13750,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPXH-20141",
@@ -13391,7 +13795,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPXH-29075",
@@ -13442,7 +13847,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPXH-20150",
@@ -13487,13 +13893,14 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPCH-29308",
       "code": "UPCH-29308",
       "name": "正しい偽りからの起床【初回限定盤】",
-      "ko": "올바른 거짓에서의 기상 — 초회 마도서판 복각",
+      "ko": "미니 1집 초회 한정판 복각 — 올바른 거짓에서의 기상",
       "price": 3565,
       "scope": "현장·나라 굿즈",
       "category": "카드·음반",
@@ -13510,37 +13917,60 @@
       "specs": {
         "options": [],
         "rows": [],
-        "notes": [],
+        "notes": [
+          "CD 12트랙: 본곡 6곡 + 인스트루멘털 6곡",
+          "마도서 형태 BOX · MV 아트북 · ACAね 해설이 포함된 전곡 코드 악보"
+        ],
         "material": "",
-        "source": "https://zutomayomart.net/v2/product/detail/UPCH-29308"
+        "source": "https://zutomayo.net/news/652/"
       },
       "additionalRelease": true,
       "purchase": {
-        "method": "일반 판매",
+        "method": "회원 한정 · 수량 한정 복각 판매",
         "channels": [
-          {
-            "key": "venue",
-            "label": "공연장 물판",
-            "detail": "10/10·11 각일 10:00~종연 후. 헤이조궁터 祭Area, 공연 티켓 없이 구매 가능.",
-            "url": "https://zutomayo.net/bunka_denrai_Item_netorder/"
-          },
           {
             "key": "pickup",
             "label": "사전 주문 → 공연장 수령",
-            "detail": "회원 우선 10/3 20:00~10/4 19:59, 일반 10/4 20:00~10/7 23:59. 10/10·11 선택한 시간에 祭Area 수령. 일본 현지 시각.",
-            "url": "https://zutomayo.net/bunka_denrai_Item_netorder/"
+            "detail": "PREMIUM 회원 한정. 10/3 20:00~10/7 23:59 접수, ¥3,565. 10/10·11 祭Area Goods 부스에서 수령. 1인 1장.",
+            "url": "https://zutomayo.net/news/652/"
+          },
+          {
+            "key": "venue",
+            "label": "공연장 물판",
+            "detail": "PREMIUM 회원 한정. 10/10·11 10:00~21:00, 祭Area Goods 부스. ¥3,600, 1인 1장, 회원증 제시. 재고 소진 시 종료.",
+            "url": "https://zutomayo.net/news/652/"
+          },
+          {
+            "key": "after-event",
+            "label": "공연 후 ZUTOMAYO MART 판매 예고",
+            "detail": "공연 종료 후 수량 한정·회원 선행 판매 예정. 판매 시기·상세 조건은 추후 공지.",
+            "url": "https://zutomayo.net/news/652/"
           }
         ],
         "restrictions": [
-          "공식 상품 상세 주문 제한: 1인 1개 (현장 제한은 판매처 안내 확인)",
-          "ZUTOMAYO PREMIUM 회원 한정 · 현장 MY PAGE 회원 확인",
-          "1인 1개 · 사전 수령 ¥3,565 / 공연장 직접 판매 ¥3,600 · 구매표 합계는 ¥3,565 기준"
+          "공연 전 사전 수령·현장 판매 모두 PREMIUM 회원 한정",
+          "1인 1장 · 각 판매 방식에 별도 상한 재고, 소진 시 종료",
+          "사전 수령 ¥3,565 / 현장 직접 구매 ¥3,600 · 구매표 합계는 ¥3,565 기준",
+          "나라 팝업의 미니 1집 통상판(UPCH-20497)과 다른 상품"
         ],
         "sources": [
-          "https://zutomayo.net/bunka_denrai_Item_netorder/",
-          "https://zutomayo.net/news/652/"
+          "https://zutomayo.net/news/652/",
+          "https://zutomayomart.net/v2/product/detail/UPCH-29308"
         ]
-      }
+      },
+      "collab": null,
+      "aliases": [
+        "미니1집",
+        "미니 1집",
+        "1집 초회",
+        "초회한정판",
+        "첫 미니앨범",
+        "정거짓",
+        "올거짓",
+        "마도서판",
+        "마도서 복각",
+        "魔導書"
+      ]
     },
     {
       "id": "UPCH-20497",
@@ -13582,7 +14012,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPCH-20685",
@@ -13625,7 +14056,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPCH-20532",
@@ -13667,7 +14099,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY088",
@@ -13733,7 +14166,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY187",
@@ -13802,7 +14236,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY479",
@@ -13867,7 +14302,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY701",
@@ -13930,7 +14366,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY094",
@@ -13990,7 +14427,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY762",
@@ -14055,7 +14493,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY764",
@@ -14120,7 +14559,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY761",
@@ -14185,7 +14625,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY763",
@@ -14250,7 +14691,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY087",
@@ -14313,7 +14755,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY930",
@@ -14379,7 +14822,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY932",
@@ -14445,7 +14889,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY931",
@@ -14511,7 +14956,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY929",
@@ -14577,7 +15023,8 @@
           "https://zutomayo.net/mart_nara202610/",
           "https://d12oj0i0pu43cb.cloudfront.net/zutomayo.net/share/bunkadenrai/stand_lineup.jpg"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY350",
@@ -14642,7 +15089,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY090",
@@ -14703,7 +15151,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY118",
@@ -14767,7 +15216,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY779",
@@ -14830,7 +15280,8 @@
           "https://zutomayo.net/bunka_denrai_Item_netorder/",
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPXH-20115",
@@ -14872,7 +15323,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPCH-20516",
@@ -14914,7 +15366,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPCH-20651",
@@ -14957,7 +15410,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPXH-20106",
@@ -14999,7 +15453,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPCH-29504",
@@ -15050,7 +15505,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPCH-20717",
@@ -15093,7 +15549,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "UPCH-29503",
@@ -15147,7 +15604,8 @@
         "sources": [
           "https://zutomayo.net/mart_nara202610/"
         ]
-      }
+      },
+      "collab": null
     },
     {
       "id": "ZMY910",
@@ -15197,6 +15655,12 @@
           "https://zutomayo.net/bunka-denrai/"
         ],
         "lotteryStock": 100
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "Good Job! 센터 가시바",
+        "original": "Good Job! センター香芝",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -15247,6 +15711,12 @@
           "https://zutomayo.net/bunka-denrai/"
         ],
         "lotteryStock": 40
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "오시오 쇼잔 · 아카하다야키",
+        "original": "大塩昭山",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -15297,6 +15767,12 @@
           "https://zutomayo.net/bunka-denrai/"
         ],
         "lotteryStock": 100
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "Good Job! 센터 가시바",
+        "original": "Good Job! センター香芝",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     },
     {
@@ -15347,6 +15823,12 @@
           "https://zutomayo.net/bunka-denrai/"
         ],
         "lotteryStock": 40
+      },
+      "collab": {
+        "group": "nara",
+        "partner": "오시오 쇼잔 · 아카하다야키",
+        "original": "大塩昭山",
+        "source": "https://zutomayo.net/bunka-denrai/"
       }
     }
   ]
